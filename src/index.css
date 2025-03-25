@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+   
+    background-color: #F7F7F7;
+  }
+  a:hover {
+    color: #556B2F;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
